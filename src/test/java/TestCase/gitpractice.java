@@ -7,8 +7,7 @@ public class gitpractice {
 public 	void gitpractice() {
 		System.out.println ("this is    git practice");
 		System.out.println("this is shreya master change");
-	
-	}
+	System.out.println("ok");	}
 	}
 
 
